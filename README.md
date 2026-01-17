@@ -227,9 +227,12 @@ This project is licensed under the MIT License.
 Contact
 
 Rajesh Easwaramoorthy
+
 rajeshe969@gmail.com
+
 https://www.linkedin.com/in/rajeshe6/
 
 
 Project repository:
+
 https://github.com/rajeshe6/finance-rag-chatbot
