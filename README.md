@@ -45,6 +45,7 @@ Frontend	Streamlit
 Data Source	SEC EDGAR API
 Language	Python 3.13
 Project Structure
+```
 finance-rag-chatbot/
 │
 ├── data/
@@ -67,7 +68,7 @@ finance-rag-chatbot/
 ├── docker-compose.yml
 ├── requirements.txt
 └── README.md
-
+```
 Getting Started
 Prerequisites
 
@@ -227,9 +228,12 @@ This project is licensed under the MIT License.
 Contact
 
 Rajesh Easwaramoorthy
+
 rajeshe969@gmail.com
+
 https://www.linkedin.com/in/rajeshe6/
 
 
 Project repository:
+
 https://github.com/rajeshe6/finance-rag-chatbot
