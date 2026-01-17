@@ -45,6 +45,7 @@ Frontend	Streamlit
 Data Source	SEC EDGAR API
 Language	Python 3.13
 Project Structure
+```
 finance-rag-chatbot/
 │
 ├── data/
@@ -67,7 +68,7 @@ finance-rag-chatbot/
 ├── docker-compose.yml
 ├── requirements.txt
 └── README.md
-
+```
 Getting Started
 Prerequisites
 
