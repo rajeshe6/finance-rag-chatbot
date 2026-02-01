@@ -73,7 +73,6 @@ def main():
     )
     
     print("\n FULL MODE: Downloading all 35 tech companies")
-    print(" This will take 30-45 minutes...")
     print(" Total filings to download: ~140 (2 per filing type per company)")
     print("\n You can press Ctrl+C to cancel anytime\n")
     
